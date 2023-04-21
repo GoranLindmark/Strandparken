@@ -1,0 +1,56 @@
+"","year","lable","value1","value2","value3"
+"1",2012,"Resultat före Avskrivningar",2858773,1038504,NA
+"2",2012,"Summa avskrivningar",-335601,-108639,NA
+"3",2012,"Rörelseresultat",2523172,929865,NA
+"4",2012,"Resultat efter finansiella poster",1001842,331673,NA
+"5",2012,"Årets resultat",982444,383382,NA
+"6",2013,"Resultat före Avskrivningar",2821329,2858773,NA
+"7",2013,"Summa avskrivningar",-839759,-335601,NA
+"8",2013,"Rörelseresultat",1981570,2523172,NA
+"9",2013,"Resultat efter finansiella poster",651133,1001842,NA
+"10",2013,"Årets resultat",651133,982444,NA
+"11",2014,"Resultat före Avskrivningar",2553233,2821329,NA
+"12",2014,"Summa avskrivningar",-1021418,-839759,NA
+"13",2014,"Rörelseresultat",1531815,1981570,NA
+"14",2014,"Resultat efter finansiella poster",451519,651133,NA
+"15",2014,"Årets resultat",451519,651133,NA
+"16",2015,"Resultat före Avskrivningar",2331102,2553233,NA
+"17",2015,"Summa avskrivningar",-1225500,-1021418,NA
+"18",2015,"Rörelseresultat",1105602,1531815,NA
+"19",2015,"Resultat efter finansiella poster",247529,451519,NA
+"20",2015,"Årets resultat",247529,451519,NA
+"21",2016,"Resultat före Avskrivningar",2303761,2331102,NA
+"22",2016,"Summa avskrivningar",-1225333,-1225500,NA
+"23",2016,"Rörelseresultat",1078428,1105602,NA
+"24",2016,"Resultat efter finansiella poster",456826,247529,NA
+"25",2016,"Årets resultat",456826,247529,NA
+"26",2017,"Resultat före Avskrivningar",2159372,2303761,NA
+"27",2017,"Summa avskrivningar",-1226358,-1225333,NA
+"28",2017,"Rörelseresultat",933014,1078428,NA
+"29",2017,"Resultat efter finansiella poster",403156,456826,NA
+"30",2017,"Årets resultat",403156,456826,NA
+"31",2018,"Resultat före Avskrivningar",2037049,2159372,NA
+"32",2018,"Summa avskrivningar",-1242281,-1226358,NA
+"33",2018,"Rörelseresultat",794768,933014,NA
+"34",2018,"Resultat efter finansiella poster",289537,403156,NA
+"35",2018,"Årets resultat",289537,403156,NA
+"36",2019,"Resultat före Avskrivningar",1626833,-2813333,2037049
+"37",2019,"Summa avskrivningar",1522188,-817333,-1242281
+"38",2019,"Rörelseresultat",3149021,-3630667,794768
+"39",2019,"Resultat efter finansiella poster",2605999,-3968667,289537
+"40",2019,"Årets resultat",2605999,-3968667,289537
+"41",2020,"Resultat före Avskrivningar",2633035,1626833,NA
+"42",2020,"Summa avskrivningar",-5553899,1522188,NA
+"43",2020,"Rörelseresultat",-2920864,3149021,NA
+"44",2020,"Resultat efter finansiella poster",-3408050,2605999,NA
+"45",2020,"Årets resultat",-3408050,2605999,NA
+"46",2021,"Resultat före Avskrivningar",2169937,2633035,NA
+"47",2021,"Summa avskrivningar",-2356053,-5553899,NA
+"48",2021,"Rörelseresultat",-186116,-2920864,NA
+"49",2021,"Resultat efter finansiella poster",-688462,-3408050,NA
+"50",2021,"Årets resultat",-688462,-3408050,NA
+"51",2022,"Resultat före Avskrivningar",1038504,0,NA
+"52",2022,"Summa avskrivningar",-108639,0,NA
+"53",2022,"Rörelseresultat",929865,0,NA
+"54",2022,"Resultat efter finansiella poster",331673,0,NA
+"55",2022,"Årets resultat",383382,0,NA
