@@ -32,7 +32,7 @@ result <-
   mutate(current_year = str_replace_all(current_year, " ", "")) %>%
   mutate(current_year = as.numeric(current_year))
 
-pivot_wider(result, names_from = c("Realtidsresultatrapport.."), values_from = current_year) %>% view
+pivot_wider(result, names_from = c("Realtidsresultatrapport.."), values_from = current_year)
 
 # rr2019 <-
 #   result  %>%
@@ -48,11 +48,11 @@ pivot_wider(result, names_from = c("Realtidsresultatrapport.."), values_from = c
 #   arrange(year)
 
 
-result
+
 }
 
 BR <- function(){
-fnames <- list.files(path = "data-raw/BR", full.names = T)
+fnames <- list.files(path = "data-raw/BR", pattern = "*.csv", full.names = T)
 basår <- 2011
 result <- data.frame()
 for (i in 1:length(fnames)){
@@ -62,15 +62,7 @@ for (i in 1:length(fnames)){
 result <-
 result %>%
   filter(str_detect(Realtidsbalansrapport.., "Summa långfristiga skulder") |
-           str_detect(Realtidsbalansrapport.., "Summa kortfristiga skulder"))
-result
-}
-
-RR()
-BR()
-
-br <-
-  BR() %>%
+           str_detect(Realtidsbalansrapport.., "Summa kortfristiga skulder")) %>%
   separate(Realtidsbalansrapport.., sep = ";" , into = c("lable", "value1", "value2", "value3")) %>%
   mutate( value1 = str_replace_all(value1, " ", "")) %>%
   mutate( value2 = str_replace_all(value2, " ", "")) %>%
@@ -78,6 +70,23 @@ br <-
   mutate(value1 = as.numeric(value1)) %>%
   mutate(value2 = as.numeric(value2)) %>%
   mutate(value3 = as.numeric(value3))
+
+names(result) <- c("year", "Lable", "IB", "Period", "UB")
+
+result
+  result %>%
+  group_by(year) %>%
+  summarize(ib = sum(IB),
+            period = sum(Period),
+            ub = sum(UB))
+
+result
+}
+
+rr <- RR()
+
+br <- BR()
+
 
 write.csv(rr, "data/rr.csv", fileEncoding = "UTF8")
 write.csv(br, "data/br.csv", fileEncoding = "UTF8")

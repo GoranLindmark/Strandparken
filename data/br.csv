@@ -1,4 +1,4 @@
-"","year","lable","value1","value2","value3"
+"","year","Lable","IB","Period","UB"
 "1",2012,"Summa långfristiga skulder",-52387205,2913715,-49473490
 "2",2012,"Summa kortfristiga skulder",150470,-1356635,-1206165
 "3",2013,"Summa långfristiga skulder",-49473490,3074761,-46398729
@@ -17,5 +17,7 @@
 "16",2019,"Summa kortfristiga skulder",-1097641,-1083139,-2180780
 "17",2020,"Summa långfristiga skulder",-41510650,-405710,-41916360
 "18",2020,"Summa kortfristiga skulder",-2180780,493669,-1687112
-"19",2021,"Summa långfristiga skulder",-33539360,2971000,-30568360
-"20",2021,"Summa kortfristiga skulder",-10751992,-3067450,-13819442
+"19",2021,"Summa långfristiga skulder",-41916360,8377000,-33539360
+"20",2021,"Summa kortfristiga skulder",-1687112,-9064881,-10751992
+"21",2022,"Summa långfristiga skulder",-33539360,2971000,-30568360
+"22",2022,"Summa kortfristiga skulder",-10751992,-3067450,-13819442
