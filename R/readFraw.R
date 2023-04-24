@@ -73,7 +73,7 @@ result %>%
 
 names(result) <- c("year", "Lable", "IB", "Period", "UB")
 
-result
+result <-
   result %>%
   group_by(year) %>%
   summarize(ib = sum(IB),

@@ -1,124 +1,124 @@
-﻿Realtidsresultatrapport ;""
-Kundnamn: Brf Strandparken Kungsholmen;""
-Organisationsnummer: 716420-4682;""
-"";""
-"";"2015-01-01 - 2015-12-31";"2014-01-01 - 2014-12-31"
-"RÖRELSEINTÄKTER";"";""
-"NETTOOMSÄTTNING";"";""
-"RÖRELSENS HUVUDINTÄKTER";"";""
-"3021 Årsavgifter bostäder";"3 775 416";"3 775 416"
-"3052 Hyresintäkter lokaler";"1 208 928";"1 208 928"
-"3054 Hyresintäkter garage";"474 000";"479 440"
-"3055 Hyresintäkter garage, moms";"395 800";"362 000"
-"Summa Rörelsens huvudintäkter";"5 854 144";"5 825 784"
-"ERSÄTTNINGAR OCH INTÄKTER FRÅN HYRESGÄSTER";"";""
-"3218 Övriga intäkter";"44 432";"2 120"
-"Summa Ersättningar och intäkter från hyresgäster";"44 432";"2 120"
-"Summa nettoomsättning";"5 898 576";"5 827 904"
-"ÖVRIGA RÖRELSEINTÄKTER";"";""
-"3740 Öres- och kronutjämning";"1";"2"
-"3994 Ersättn.fr.försäkr.bolag";"57 867";"0"
-"Summa övriga rörelseintäkter";"57 868";"2"
-"Summa Rörelseintäkter";"5 956 444";"5 827 906"
-"RÖRELSEKOSTNADER";"";""
-"DRIFTKOSTNADER";"";""
-"FASTIGHETSSKÖTSEL OCH STÄD";"";""
-"4000 Fastskötsel,städ material";"-18 436";"-22 716"
-"4020";"683";"-683"
-"4110 Fastskötsel/teknisk förv arvode";"0";"-3 478"
-"4120 Entrepkostn städ";"-126 541";"-143 889"
-"4140 Besiktningskostnader";"0";"-2 223"
-"4160 Trädgård och blommor";"-2 558";"-28 962"
-"4170 Snöskottning och sandupptagning";"-23 820";"-16 219"
-"4180 Klottersanering";"-2 375";"-4 500"
-"4185 Mattservice";"-2 131";"-5 830"
-"4190 Övriga köpta tjänster";"-9 994";"-37 443"
-"Summa Fastighetsskötsel och städ";"-185 172";"-265 942"
-"REPARATIONER";"";""
-"4311 Bostäder";"-20 510";"-3 125"
-"4321 Lokaler";"0";"-12 783"
-"4331 Tvättstuga";"-15 217";"-14 310"
-"4332 Trapphus/port/entré";"-24 882";"-16 979"
-"4339 Övriga gemensamma utrymmen";"-14 641";"-17 936"
-"4341 VA";"-32 407";"-46 680"
-"4342 Värme";"-27 750";"-31 443"
-"4343 Ventilation";"-2 779";"-7 425"
-"4345 Kabel-tv/bredband";"0";"-21 713"
-"4346 Hissar";"-252 483";"-148 754"
-"4351 Tak";"-14 163";"-1 975"
-"4353 Fönster";"-1 329";"-4 535"
-"4380 Försäkringsärende/vattenskada";"-405 694";"-249 834"
-"Summa Reparationer";"-811 855";"-577 491"
-"PLANERAT UNDERHÅLL";"";""
-"4301 Planerade underhåll";"-134 044";"-51 567"
-"Summa Planerat underhåll";"-134 044";"-51 567"
-"TAXEBUNDNA KOSTNADER";"";""
-"4611 Fastighetsel";"-205 997";"-209 348"
-"4623 Fjärrvärme";"-497 153";"-520 065"
-"4630 Vatten";"-87 696";"-84 301"
-"4640 Sophämtning";"-48 048";"-43 636"
-"4641 Grovsopor, tidningar";"-51 107";"-45 603"
-"4690 Övrigt";"-10 512";"-10 512"
-"Summa Taxebundna kostnader";"-900 513";"-913 465"
-"ÖVRIGA DRIFTSKOSTNADER";"";""
-"4710 Fastighetsförsäkringar";"-53 317";"-50 778"
-"4741 Tomträttsavgäld";"-463 033";"-438 000"
-"4760 Kabel-TV";"-142 888";"-142 188"
-"Summa Övriga driftskostnader";"-659 238";"-630 966"
-"FASTIGHETSSKATT";"";""
-"4800 Fastighetsskatt";"-214 636";"-188 347"
-"Summa Fastighetsskatt";"-214 636";"-188 347"
-"Summa driftkostnader";"-2 905 458";"-2 627 778"
-"ÖVRIGA EXTERNA KOSTNADER";"";""
-"FÖRBRUKNINGSINVENTARIER OCH FÖRBRUKNINGSMATERIAL";"";""
-"5410 Förbrukningsinventarier";"-23 164";"0"
-"Summa Förbrukningsinventarier och förbrukningsmaterial";"-23 164";"0"
-"KONTORSMATERIEL";"";""
-"6100 Kontorsmtrl trycksaker";"0";"-1 458"
-"Summa Kontorsmateriel";"0";"-1 458"
-"TELE OCH POST";"";""
-"6210 Telekommunikation";"-5 281";"-2 101"
-"Summa Tele och post";"-5 281";"-2 101"
-"FÖRVALTNINGSKOSTNADER";"";""
-"6420 Revisionsarvoden";"-37 500";"-73 125"
-"6480 Arvode ekonomisk förvaltning";"-198 420";"-174 400"
-"6482 Extradebitering förvaltn.";"-54 914";"-22 227"
-"6490 Övr förvaltningskostnader";"-27 262";"-11 674"
-"Summa Förvaltningskostnader";"-318 096";"-281 426"
-"ÖVRIGA EXTERNA TJÄNSTER";"";""
-"6550 Konsultkostnader";"-28 501";"-23 125"
-"6570 Bankkostnader";"-3 545";"-6 410"
-"6580 Advokat/rätteg kostn";"-2 469";"-1 094"
-"Summa Övriga externa tjänster";"-34 515";"-30 629"
-"ÖVRIGA EXTERNA KOSTNADER";"";""
-"6990 Övriga externa kostnader";"-7 193";"-5 338"
-"Summa Övriga externa kostnader";"-7 193";"-5 338"
-"Summa övriga externa kostnader";"-388 249";"-320 952"
-"PERSONALKOSTNADER";"";""
-"ARVODEN";"";""
-"6410 Styrelsearvoden";"-80 450";"-43 800"
-"6411 Övriga arvoden";"-3 000";"-3 000"
-"Summa Arvoden";"-83 450";"-46 800"
-"SOCIALA OCH ANDRA AVGIFTER ENLIGT LAG OCH AVTAL";"";""
-"7510 Lagstadgade arb giv avg";"-26 054";"-11 047"
-"Summa Sociala och andra avgifter enligt lag och avtal";"-26 054";"-11 047"
-"Summa personalkostnader";"-109 504";"-57 847"
-"Resultat före Avskrivningar";"2 553 233";"2 821 329"
-"AVSKRIVNINGAR";"";""
-"7821 Avskrivn byggnader";"-1 017 341";"-834 136"
-"7822 Avskrivning fast. förbätr";"-4 077";"-5 623"
-"Summa avskrivningar";"-1 021 418";"-839 759"
-"Summa Rörelsekostnader";"-4 424 629";"-3 846 335"
-"Rörelseresultat";"1 531 815";"1 981 570"
-"FINANSIELLA POSTER";"";""
-"RÄNTEINTÄKTER OCH LIKNANDE RESULTATPOSTER";"";""
-"8310 Räntein fr omstillg momsf";"0";"2 149"
-"8314 Skattefria ränteintäkter";"2";"2"
-"Summa ränteintäkter och liknande resultatposter";"2";"2 151"
-"RÄNTEKOSTNADER OCH LIKNANDE RESULTATPOSTER";"";""
-"8410 Låneräntor";"-1 080 201";"-1 327 451"
-"8422 Dröjsmålsränta";"-97";"-5 048"
-"8423 Kostn.ränta, skatt";"0";"-89"
-"Summa räntekostnader och liknande resultatposter";"-1 080 298";"-1 332 588"
-"Resultat efter finansiella poster";"451 519";"651 133"
-"Årets resultat";"451 519";"651 133"
+﻿Realtidsresultatrapport ;;
+Kundnamn: Brf Strandparken Kungsholmen;;
+Organisationsnummer: 716420-4682;;
+;;
+;2015-01-01 - 2015-12-31;2014-01-01 - 2014-12-31
+RÖRELSEINTÄKTER;;
+NETTOOMSÄTTNING;;
+RÖRELSENS HUVUDINTÄKTER;;
+3021 Årsavgifter bostäder;3 775 416;3 775 416
+3052 Hyresintäkter lokaler;1 208 928;1 208 928
+3054 Hyresintäkter garage;474 000;479 440
+3055 Hyresintäkter garage, moms;395 800;362 000
+Summa Rörelsens huvudintäkter;5 854 144;5 825 784
+ERSÄTTNINGAR OCH INTÄKTER FRÅN HYRESGÄSTER;;
+3218 Övriga intäkter;44 432;2 120
+Summa Ersättningar och intäkter från hyresgäster;44 432;2 120
+Summa nettoomsättning;5 898 576;5 827 904
+ÖVRIGA RÖRELSEINTÄKTER;;
+3740 Öres- och kronutjämning;1;2
+3994 Ersättn.fr.försäkr.bolag;57 867;0
+Summa övriga rörelseintäkter;57 868;2
+Summa Rörelseintäkter;5 956 444;5 827 906
+RÖRELSEKOSTNADER;;
+DRIFTKOSTNADER;;
+FASTIGHETSSKÖTSEL OCH STÄD;;
+4000 Fastskötsel,städ material;-18 436;-22 716
+4020;683;-683
+4110 Fastskötsel/teknisk förv arvode;0;-3 478
+4120 Entrepkostn städ;-126 541;-143 889
+4140 Besiktningskostnader;0;-2 223
+4160 Trädgård och blommor;-2 558;-28 962
+4170 Snöskottning och sandupptagning;-23 820;-16 219
+4180 Klottersanering;-2 375;-4 500
+4185 Mattservice;-2 131;-5 830
+4190 Övriga köpta tjänster;-9 994;-37 443
+Summa Fastighetsskötsel och städ;-185 172;-265 942
+REPARATIONER;;
+4311 Bostäder;-20 510;-3 125
+4321 Lokaler;0;-12 783
+4331 Tvättstuga;-15 217;-14 310
+4332 Trapphus/port/entré;-24 882;-16 979
+4339 Övriga gemensamma utrymmen;-14 641;-17 936
+4341 VA;-32 407;-46 680
+4342 Värme;-27 750;-31 443
+4343 Ventilation;-2 779;-7 425
+4345 Kabel-tv/bredband;0;-21 713
+4346 Hissar;-252 483;-148 754
+4351 Tak;-14 163;-1 975
+4353 Fönster;-1 329;-4 535
+4380 Försäkringsärende/vattenskada;-405 694;-249 834
+Summa Reparationer;-811 855;-577 491
+PLANERAT UNDERHÅLL;;
+4301 Planerade underhåll;-134 044;-51 567
+Summa Planerat underhåll;-134 044;-51 567
+TAXEBUNDNA KOSTNADER;;
+4611 Fastighetsel;-205 997;-209 348
+4623 Fjärrvärme;-497 153;-520 065
+4630 Vatten;-87 696;-84 301
+4640 Sophämtning;-48 048;-43 636
+4641 Grovsopor, tidningar;-51 107;-45 603
+4690 Övrigt;-10 512;-10 512
+Summa Taxebundna kostnader;-900 513;-913 465
+ÖVRIGA DRIFTSKOSTNADER;;
+4710 Fastighetsförsäkringar;-53 317;-50 778
+4741 Tomträttsavgäld;-463 033;-438 000
+4760 Kabel-TV;-142 888;-142 188
+Summa Övriga driftskostnader;-659 238;-630 966
+FASTIGHETSSKATT;;
+4800 Fastighetsskatt;-214 636;-188 347
+Summa Fastighetsskatt;-214 636;-188 347
+Summa driftkostnader;-2 905 458;-2 627 778
+ÖVRIGA EXTERNA KOSTNADER;;
+FÖRBRUKNINGSINVENTARIER OCH FÖRBRUKNINGSMATERIAL;;
+5410 Förbrukningsinventarier;-23 164;0
+Summa Förbrukningsinventarier och förbrukningsmaterial;-23 164;0
+KONTORSMATERIEL;;
+6100 Kontorsmtrl trycksaker;0;-1 458
+Summa Kontorsmateriel;0;-1 458
+TELE OCH POST;;
+6210 Telekommunikation;-5 281;-2 101
+Summa Tele och post;-5 281;-2 101
+FÖRVALTNINGSKOSTNADER;;
+6420 Revisionsarvoden;-37 500;-73 125
+6480 Arvode ekonomisk förvaltning;-198 420;-174 400
+6482 Extradebitering förvaltn.;-54 914;-22 227
+6490 Övr förvaltningskostnader;-27 262;-11 674
+Summa Förvaltningskostnader;-318 096;-281 426
+ÖVRIGA EXTERNA TJÄNSTER;;
+6550 Konsultkostnader;-28 501;-23 125
+6570 Bankkostnader;-3 545;-6 410
+6580 Advokat/rätteg kostn;-2 469;-1 094
+Summa Övriga externa tjänster;-34 515;-30 629
+ÖVRIGA EXTERNA KOSTNADER;;
+6990 Övriga externa kostnader;-7 193;-5 338
+Summa Övriga externa kostnader;-7 193;-5 338
+Summa övriga externa kostnader;-388 249;-320 952
+PERSONALKOSTNADER;;
+ARVODEN;;
+6410 Styrelsearvoden;-80 450;-43 800
+6411 Övriga arvoden;-3 000;-3 000
+Summa Arvoden;-83 450;-46 800
+SOCIALA OCH ANDRA AVGIFTER ENLIGT LAG OCH AVTAL;;
+7510 Lagstadgade arb giv avg;-26 054;-11 047
+Summa Sociala och andra avgifter enligt lag och avtal;-26 054;-11 047
+Summa personalkostnader;-109 504;-57 847
+Resultat före Avskrivningar;2 553 233;2 821 329
+AVSKRIVNINGAR;;
+7821 Avskrivn byggnader;-1 017 341;-834 136
+7822 Avskrivning fast. förbätr;-4 077;-5 623
+Summa avskrivningar;-1 021 418;-839 759
+Summa Rörelsekostnader;-4 424 629;-3 846 335
+Rörelseresultat;1 531 815;1 981 570
+FINANSIELLA POSTER;;
+RÄNTEINTÄKTER OCH LIKNANDE RESULTATPOSTER;;
+8310 Räntein fr omstillg momsf;0;2 149
+8314 Skattefria ränteintäkter;2;2
+Summa ränteintäkter och liknande resultatposter;2;2 151
+RÄNTEKOSTNADER OCH LIKNANDE RESULTATPOSTER;;
+8410 Låneräntor;-1 080 201;-1 327 451
+8422 Dröjsmålsränta;-97;-5 048
+8423 Kostn.ränta, skatt;0;-89
+Summa räntekostnader och liknande resultatposter;-1 080 298;-1 332 588
+Resultat efter finansiella poster;451 519;651 133
+Årets resultat;451 519;651 133
