@@ -22,7 +22,7 @@ RR_cost <- function(){
         str_detect(result$Realtidsresultatrapport.., "Summa Planerat underhåll") |
         str_detect(result$Realtidsresultatrapport.., "Summa Taxebundna kostnader") |
         str_detect(result$Realtidsresultatrapport.., "Summa Fastighetsskatt") |
-        str_detect(result$Realtidsresultatrapport.., "Summa Övriga driftskostnader")|
+        str_detect(result$Realtidsresultatrapport.., "Summa Övriga driftskostnader")
     ) %>%
     select(-last_year) %>%
     # separate(
